@@ -39,10 +39,8 @@ export const Footer = ()=>{
 
                 <div className='copyright-text'>
                     <p> 
-                         Copyright &copy; 2024, All Right Reserved
-                <NavLink to="https://thapatechnical.shop/" target="_blank">
-                  ThapaTechnical
-                </NavLink></p>
+                         Copyright &copy; 2024, All Right Reserved YatriGorasiya
+               </p>
                 </div>
 
                 <div className='footer-menu'>
@@ -53,9 +51,7 @@ export const Footer = ()=>{
                         <li>
                             <NavLink to="/country">country</NavLink>
                         </li>
-                        <li>
-                            <NavLink to="/">Source Code</NavLink>
-                        </li>
+                       
                         <li>
                             <NavLink to="/contact">Contact</NavLink>
                         </li>

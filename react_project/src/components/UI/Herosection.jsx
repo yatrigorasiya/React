@@ -12,6 +12,7 @@ export const Herosection = ()=>{
             <NavLink to="/country">  <button>Start Exploring <FaArrowRight /></button></NavLink>
           
         </div>
+        
         <div className="hero-image">
             <img src="/images/world.png" alt="image" className="banner-image"/>
         </div>
